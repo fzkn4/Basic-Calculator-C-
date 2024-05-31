@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fzkn4\\Music\\Fzkn4\\C isnt sharp\\calcushit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69D61A-D5F7-4792-95F2-7A8A1359B943}|calcushit\\calcushit.csproj|c:\\users\\fzkn4\\music\\fzkn4\\c isnt sharp\\calcushit\\calcushit\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69D61A-D5F7-4792-95F2-7A8A1359B943}|calcushit\\calcushit.csproj|solutionrelative:calcushit\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69D61A-D5F7-4792-95F2-7A8A1359B943}|calcushit\\calcushit.csproj|C:\\Users\\Fzkn4\\Music\\Fzkn4\\C isnt sharp\\calcushit\\calcushit\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E69D61A-D5F7-4792-95F2-7A8A1359B943}|calcushit\\calcushit.csproj|solutionrelative:calcushit\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69D61A-D5F7-4792-95F2-7A8A1359B943}|calcushit\\calcushit.csproj|c:\\users\\fzkn4\\music\\fzkn4\\c isnt sharp\\calcushit\\calcushit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69D61A-D5F7-4792-95F2-7A8A1359B943}|calcushit\\calcushit.csproj|solutionrelative:calcushit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fzkn4\\Music\\Fzkn4\\C isnt sharp\\calcushit\\calcushit\\Program.cs",
+              "RelativeDocumentMoniker": "calcushit\\Program.cs",
+              "ToolTip": "C:\\Users\\Fzkn4\\Music\\Fzkn4\\C isnt sharp\\calcushit\\calcushit\\Program.cs",
+              "RelativeToolTip": "calcushit\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:10:18.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Fzkn4\\Music\\Fzkn4\\C isnt sharp\\calcushit\\calcushit\\Form2.cs",
+              "RelativeDocumentMoniker": "calcushit\\Form2.cs",
+              "ToolTip": "C:\\Users\\Fzkn4\\Music\\Fzkn4\\C isnt sharp\\calcushit\\calcushit\\Form2.cs",
+              "RelativeToolTip": "calcushit\\Form2.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAD4vyQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T07:19:25.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fzkn4\\Music\\Fzkn4\\C isnt sharp\\calcushit\\calcushit\\Form2.cs",
+              "RelativeDocumentMoniker": "calcushit\\Form2.cs",
+              "ToolTip": "C:\\Users\\Fzkn4\\Music\\Fzkn4\\C isnt sharp\\calcushit\\calcushit\\Form2.cs [Design]",
+              "RelativeToolTip": "calcushit\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:52:54.633Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Fzkn4\Music\Fzkn4\C isnt sharp\calcushit\calcushit\bin\Release\net8.0-windows\calcushit.exe
+C:\Users\Fzkn4\Music\Fzkn4\C isnt sharp\calcushit\calcushit\bin\Release\net8.0-windows\calcushit.deps.json
+C:\Users\Fzkn4\Music\Fzkn4\C isnt sharp\calcushit\calcushit\bin\Release\net8.0-windows\calcushit.runtimeconfig.json
+C:\Users\Fzkn4\Music\Fzkn4\C isnt sharp\calcushit\calcushit\bin\Release\net8.0-windows\calcushit.dll
+C:\Users\Fzkn4\Music\Fzkn4\C isnt sharp\calcushit\calcushit\bin\Release\net8.0-windows\calcushit.pdb
+C:\Users\Fzkn4\Music\Fzkn4\C isnt sharp\calcushit\calcushit\obj\Release\net8.0-windows\calcushit.Form2.resources
+C:\Users\Fzkn4\Music\Fzkn4\C isnt sharp\calcushit\calcushit\obj\Release\net8.0-windows\calcushit.Properties.Resources.resources
+C:\Users\Fzkn4\Music\Fzkn4\C isnt sharp\calcushit\calcushit\obj\Release\net8.0-windows\calcushit.csproj.GenerateResource.cache
+C:\Users\Fzkn4\Music\Fzkn4\C isnt sharp\calcushit\calcushit\obj\Release\net8.0-windows\calcushit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fzkn4\Music\Fzkn4\C isnt sharp\calcushit\calcushit\obj\Release\net8.0-windows\calcushit.AssemblyInfoInputs.cache
+C:\Users\Fzkn4\Music\Fzkn4\C isnt sharp\calcushit\calcushit\obj\Release\net8.0-windows\calcushit.AssemblyInfo.cs
+C:\Users\Fzkn4\Music\Fzkn4\C isnt sharp\calcushit\calcushit\obj\Release\net8.0-windows\calcushit.csproj.CoreCompileInputs.cache
+C:\Users\Fzkn4\Music\Fzkn4\C isnt sharp\calcushit\calcushit\obj\Release\net8.0-windows\calcushit.dll
+C:\Users\Fzkn4\Music\Fzkn4\C isnt sharp\calcushit\calcushit\obj\Release\net8.0-windows\refint\calcushit.dll
+C:\Users\Fzkn4\Music\Fzkn4\C isnt sharp\calcushit\calcushit\obj\Release\net8.0-windows\calcushit.pdb
+C:\Users\Fzkn4\Music\Fzkn4\C isnt sharp\calcushit\calcushit\obj\Release\net8.0-windows\calcushit.genruntimeconfig.cache
+C:\Users\Fzkn4\Music\Fzkn4\C isnt sharp\calcushit\calcushit\obj\Release\net8.0-windows\ref\calcushit.dll
